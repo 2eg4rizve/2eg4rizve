@@ -11,7 +11,7 @@
 - Overall, 3500+ problems solved from various online judges. Specialist in Codeforce.
 
 - I have also good enough knowledge about web development.
-- 
+
 - I did many Project using MARN .Now, I am leaning Next js.
 
 <br>
