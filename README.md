@@ -34,15 +34,8 @@ Competitive Programmer || Web Developer
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/2eg4rizve)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/ifthikhar-ahmed-rizve-2787322a1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](I_Am_Riz)  
 <br>
-<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=2eg4rizve)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=2eg4rizve&show_icons=true)  
-
-<br>
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2eg4rizve&label=Profile%20views&color=0e75b6&style=flat" alt="2eg4rizve" /> </p>
 
