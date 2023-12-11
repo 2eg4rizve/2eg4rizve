@@ -7,7 +7,10 @@ I am a competitive programmer. I love coding. Overall, 3500+ problems solved fro
 I have also good enough knowledge about web development.
 I did many Project using MARN .Now, I am leaning Next js.
 
-Skills: COMPETITIVE PROGRAMMER / Web Development / MERN / REACT / JS / HTML / CSS
+## Skills & Experience:
+COMPETITIVE PROGRAMMER
+Web Development
+MERN
 
 - 🌱 I’m currently learning Next.js 
 - 📫 How to reach me: ifthikhar.ahmed.rizve001@gmail.com 
