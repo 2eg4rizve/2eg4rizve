@@ -1,15 +1,13 @@
-![Competitive Programmer || Web Developer ](https://media.licdn.com/dms/image/D5635AQH5GIYsRf3RjQ/profile-framedphoto-shrink_400_400/0/1701716318857?e=1702908000&v=beta&t=Gd483fYcmhVMW8WxAF7Ut9niTAzZ02ZTTIxdbUMH2jA)
-
 ### Hi there 👋, I`m Ifthikhar Ahmed Rizve
 #### Competitive Programmer || Web Developer 
-
+![Competitive Programmer || Web Developer ](https://media.licdn.com/dms/image/D5635AQH5GIYsRf3RjQ/profile-framedphoto-shrink_400_400/0/1701716318857?e=1702908000&v=beta&t=Gd483fYcmhVMW8WxAF7Ut9niTAzZ02ZTTIxdbUMH2jA)
 
 I am a competitive programmer. I love coding. Overall, 3500+ problems solved from various online judges. Specialist in Codeforce.
 
 I have also good enough knowledge about web development.
 I did many Project using MARN .Now, I am leaning Next js.
 
-Skills: COMPETITIVE PROGRAMMER/Web Development/MERN/REACT / JS / HTML / CSS
+Skills: COMPETITIVE PROGRAMMER / Web Development / MERN / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Next.js 
 - 📫 How to reach me: ifthikhar.ahmed.rizve001@gmail.com 
