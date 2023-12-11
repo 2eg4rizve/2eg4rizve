@@ -39,15 +39,21 @@ Competitive Programmer || Web Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2eg4rizve&label=Profile%20views&color=0e75b6&style=flat" alt="2eg4rizve" /> </p>
 
+<br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2eg4rizve" alt="2eg4rizve" /></a> </p>
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2eg4rizve&show_icons=true&locale=en&layout=compact" alt="2eg4rizve" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2eg4rizve&show_icons=true&locale=en" alt="2eg4rizve" /></p>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2eg4rizve&" alt="2eg4rizve" /></p>
 
