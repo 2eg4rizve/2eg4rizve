@@ -8,9 +8,12 @@ I have also good enough knowledge about web development.
 I did many Project using MARN .Now, I am leaning Next js.
 
 ## Skills & Experience:
-COMPETITIVE PROGRAMMER
-Web Development
-MERN
+COMPETITIVE PROGRAMMER <br>
+Web Development <br>
+Problem Solving <br>
+MERN <br>
+React.js <br>
+
 
 - 🌱 I’m currently learning Next.js 
 - 📫 How to reach me: ifthikhar.ahmed.rizve001@gmail.com 
