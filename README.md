@@ -24,8 +24,18 @@ Competitive Programmer || Web Developer
 <br>
 <br>
 
-- 🌱 I’m currently learning Next.js 
-- 📫 How to reach me: ifthikhar.ahmed.rizve001@gmail.com 
+## Work:
+
+- 🔭 I’m currently working on MERN stack [.](.)  
+- 🌱 I’m currently learning Next.js
+
+<br>
+<br>
+
+## How to reach me :
+
+- Gmail : ifthikhar.ahmed.rizve001@gmail.com
+- Linkedin : www.linkedin.com/in/ifthikhar-ahmed-rizve-2787322a1
 
 <br>
 <br>
