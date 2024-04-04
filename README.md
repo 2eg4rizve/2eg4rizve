@@ -1,7 +1,7 @@
 ### Hi there 👋, I`m Ifthikhar Ahmed Rizve
 #### Competitive Programmer || Web Developer 
 
-![Competitive Programmer || Web Developer ](https://media.licdn.com/dms/image/D5616AQGvPeZtbG6uYg/profile-displaybackgroundimage-shrink_350_1400/0/1702303202181?e=1707955200&v=beta&t=vF8YkORqZvD44oveWxfgl9s6l5D0FMOKbWhDEIRDZHc)
+![Competitive Programmer || Back End Developer ](https://media.licdn.com/dms/image/D5616AQGvPeZtbG6uYg/profile-displaybackgroundimage-shrink_350_1400/0/1702303202181?e=1707955200&v=beta&t=vF8YkORqZvD44oveWxfgl9s6l5D0FMOKbWhDEIRDZHc)
 
 <br>
 <br>
@@ -10,9 +10,9 @@
 
 - Overall, 3500+ problems solved from various online judges. Specialist in Codeforce.
 
-- I have also good enough knowledge about web development.
+- I am a Back End Developer at HawkEyes Digital Monitoring Limited .
 
-- I did many Project using MARN .Now, I am leaning Next js.
+- 
 
 <br>
 <br>
@@ -32,8 +32,8 @@ Competitive Programmer || Web Developer
 
 ## Work:
 
-- 🔭 I’m currently working on MERN stack [.](.)  
-- 🌱 I’m currently learning Next.js
+- 🔭 I’m currently working as a Back End Developer[.](.)  
+- 🌱 I’m currently learning Nestjs
 
 <br>
 <br>
